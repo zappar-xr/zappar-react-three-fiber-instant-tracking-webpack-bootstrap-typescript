@@ -5,8 +5,8 @@
     "main.js.map": "/static/js/main.46fa40f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8ac9c960.js",
     "runtime-main.js.map": "/static/js/runtime-main.8ac9c960.js.map",
-    "static/js/2.d8e4ddc6.chunk.js": "/static/js/2.d8e4ddc6.chunk.js",
-    "static/js/2.d8e4ddc6.chunk.js.map": "/static/js/2.d8e4ddc6.chunk.js.map",
+    "static/js/2.db966acc.chunk.js": "/static/js/2.db966acc.chunk.js",
+    "static/js/2.db966acc.chunk.js.map": "/static/js/2.db966acc.chunk.js.map",
     "static/js/3.9cd2abbf.chunk.js": "/static/js/3.9cd2abbf.chunk.js",
     "static/js/3.9cd2abbf.chunk.js.map": "/static/js/3.9cd2abbf.chunk.js.map",
     "face_tracking_model.zbin": "/482727c0e7dd40d73f5aae47f238ad61.zbin",
@@ -14,14 +14,14 @@
     "face_mesh_full_head_simplified_model.zbin": "/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/index.html",
     "static/css/main.714be9ce.chunk.css.map": "/static/css/main.714be9ce.chunk.css.map",
-    "static/js/2.d8e4ddc6.chunk.js.LICENSE.txt": "/static/js/2.d8e4ddc6.chunk.js.LICENSE.txt",
+    "static/js/2.db966acc.chunk.js.LICENSE.txt": "/static/js/2.db966acc.chunk.js.LICENSE.txt",
     "static/js/worker.b9793aa4.worker.js": "/static/js/worker.b9793aa4.worker.js",
     "static/js/worker.b9793aa4.worker.js.map": "/static/js/worker.b9793aa4.worker.js.map",
     "zcv/zcv.wasm": "/zcv/zcv.wasm"
   },
   "entrypoints": [
     "static/js/runtime-main.8ac9c960.js",
-    "static/js/2.d8e4ddc6.chunk.js",
+    "static/js/2.db966acc.chunk.js",
     "static/css/main.714be9ce.chunk.css",
     "static/js/main.46fa40f4.chunk.js"
   ]
