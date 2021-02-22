@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/css/main.714be9ce.chunk.css",
-    "main.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/main.46fa40f4.chunk.js",
-    "main.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/main.46fa40f4.chunk.js.map",
-    "runtime-main.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/runtime-main.de022aec.js",
-    "runtime-main.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/runtime-main.de022aec.js.map",
-    "static/js/2.15a1db28.chunk.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/2.15a1db28.chunk.js",
-    "static/js/2.15a1db28.chunk.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/2.15a1db28.chunk.js.map",
-    "static/js/3.9cd2abbf.chunk.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/3.9cd2abbf.chunk.js",
-    "static/js/3.9cd2abbf.chunk.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/3.9cd2abbf.chunk.js.map",
+    "main.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/main.923d4329.chunk.js",
+    "main.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/main.923d4329.chunk.js.map",
+    "runtime-main.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/runtime-main.714ac467.js",
+    "runtime-main.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/runtime-main.714ac467.js.map",
+    "static/js/2.04b1f578.chunk.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/2.04b1f578.chunk.js",
+    "static/js/2.04b1f578.chunk.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/2.04b1f578.chunk.js.map",
+    "static/js/3.a908a7cf.chunk.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/3.a908a7cf.chunk.js",
+    "static/js/3.a908a7cf.chunk.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/3.a908a7cf.chunk.js.map",
     "face_tracking_model.zbin": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/482727c0e7dd40d73f5aae47f238ad61.zbin",
     "face_mesh_face_model.zbin": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
     "face_mesh_full_head_simplified_model.zbin": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/index.html",
     "static/css/main.714be9ce.chunk.css.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/css/main.714be9ce.chunk.css.map",
-    "static/js/2.15a1db28.chunk.js.LICENSE.txt": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/2.15a1db28.chunk.js.LICENSE.txt",
+    "static/js/2.04b1f578.chunk.js.LICENSE.txt": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/2.04b1f578.chunk.js.LICENSE.txt",
     "static/js/worker.a0dea22d.worker.js": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/worker.a0dea22d.worker.js",
     "static/js/worker.a0dea22d.worker.js.map": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/static/js/worker.a0dea22d.worker.js.map",
     "zcv/zcv.wasm": "/zappar-react-three-fiber-instant-tracking-webpack-bootstrap-typescript/zcv/zcv.wasm"
   },
   "entrypoints": [
-    "static/js/runtime-main.de022aec.js",
-    "static/js/2.15a1db28.chunk.js",
+    "static/js/runtime-main.714ac467.js",
+    "static/js/2.04b1f578.chunk.js",
     "static/css/main.714be9ce.chunk.css",
-    "static/js/main.46fa40f4.chunk.js"
+    "static/js/main.923d4329.chunk.js"
   ]
 }
